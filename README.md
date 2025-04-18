@@ -1,4 +1,4 @@
-# My Personal Finance Tracker
+# PredictFi
 
 I've been working on a platform to really get a handle on my finances. It's built to live in the cloud, so I can access it anywhere, and it helps me keep tabs on my budgets and where my money is going. The cool part is it even tries to predict my future spending using some smart analysis I've built in. Everything is designed to be super secure under the hood.
 
